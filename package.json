@@ -1,0 +1,32 @@
+{
+  "name": "fe-assembly",
+  "version": "1.0.0",
+  "description": "fe-assembly",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svproduction/fe-assembly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svproduction/fe-assembly/issues"
+  },
+  "homepage": "https://github.com/svproduction/fe-assembly#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-shorthand": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-w3c-html-validator": "^2.0.1"
+  }
+}
